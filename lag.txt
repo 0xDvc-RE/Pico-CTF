@@ -1,0 +1,38 @@
+**Riddle Registry
+picoCTF{puzzl3d_m3tadata_f0und!_42440c7d}
+**Log Hunt
+picoCTF{us3_y0urlinux_sk1lls_cedfa5fb}
+1**Hidden in plainsight
+picoCTF{h1dd3n_1n_1m4g3_92f08d7c}
+**Crack the Gate 1
+picoCTF{brut4_f0rc4_3e21b3a3}
+**SSTI1
+picoCTF{s4rv3r_s1d3_t3mp14t3_1nj3ct10n5_4r3_c001_bdc95c1a}
+**where are the robots
+picoCTF{ca1cu1at1ng_Mach1n3s_cc6b1}
+**Cookie Monster Secret Recipe
+picoCTF{c00k1e_m0nster_l0ves_c00kies_C430AE20}
+**Unminify
+picoCTF{pr3tty_c0d3_dbe259ce}
+**IntroToBurp
+picoCTF{#0TP_Bypvss_SuCc3$S_b3fa4f1a}
+**Bookmarklet
+picoCTF{p@g3_turn3r_1d1ba7e0}
+**Local Authority
+picoCTF{j5_15_7r4n5p4r3n7_b0c2c9cb}
+**Inspect HTML
+picoCTF{1n5p3t0r_0f_h7ml_8113f7e2}
+**Includes
+picoCTF{1nclu51v17y_1of2_f7w_2of2_b8f4b022}
+**Cookies
+picoCTF{3v3ry1_l0v3s_c00k135_a1f5bdb7}
+**Scavenger Hunt
+picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_35844447}
+**Insp3ct0r
+picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?302945a7}
+**dont-use-client-side
+picoCTF{no_clients_plz_2eb02b45}
+**logon
+picoCTF{th3_c0nsp1r4cy_l1v3s_4d184b0d}
+**GET aHEAD
+picoCTF{r3j3ct_th3_du4l1ty_cca66bd3}
