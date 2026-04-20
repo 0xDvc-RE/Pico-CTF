@@ -1,0 +1,10 @@
+Quantum Scrambler:
+picoCTF{python_is_weirdb0cb6be1}
+
+Bypassme: 
+picoCTF{d3bugg3r_p0w3r_is_4w3s0m3_b8f8478e}
+	
+
+keygenme:
+picoCTF{1n_7h3_kk3y_of_08c46aa4}
+
